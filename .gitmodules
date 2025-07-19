@@ -1,0 +1,6 @@
+[submodule "modules/Employee_Data_Import_System"]
+	path = modules/Employee_Data_Import_System
+	url = https://github.com/muhzina-0621/Employee-Data-Import-System.git
+[submodule "modules/Training_Management_DB_Submission"]
+	path = modules/Training_Management_DB_Submission
+	url = https://github.com/muhzina-0621/training-management-db-submission.git
